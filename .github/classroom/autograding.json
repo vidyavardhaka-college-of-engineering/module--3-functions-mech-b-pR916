@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "  Sum of Two Numbers",
+      "setup": "cc Program-6.c",
+      "run": "./a.out",
+      "input": "3 6",
+      "output": "9",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "Working of Increment operator",
+      "setup": "cc Program-7.c",
+      "run": "./a.out",
+      "input": "20",
+      "output": "num2 value is:21",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "Square of two Numbers using functions",
+      "setup": "cc Program-8.c",
+      "run": "./a.out",
+      "input": "20",
+      "output": "The square of 20 is:400",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "Check if the number is odd",
+      "setup": "cc Program-9.c",
+      "run": "./a.out",
+      "input": "5",
+      "output": "The entered number is odd",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "Perform subtraction",
+      "setup": "cc Program-10.c",
+      "run": "./a.out",
+      "input": "10 7",
+      "output": "3",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    }
+  ]
+}
