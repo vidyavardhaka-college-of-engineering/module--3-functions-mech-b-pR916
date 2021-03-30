@@ -13,9 +13,11 @@
 	int main()
 	{
 	 //Declare the variables
+   int num1,num2;
 	   printf("Enter num1:");
 	   scanf("%d",&num1);
 	   num2=increment(num1);
-	   printf(“num2 value is:",num2);//enter the missing data
+	   printf(“num2 value is:%d",num2);
+	   //enter the missing data
 	   return 0;
 	}
