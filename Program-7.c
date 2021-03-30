@@ -12,6 +12,7 @@
 	}
 	int main()
 	{
+	 int num1,num2;
 	 //Declare the variables
    int num1,num2;
 	   printf("Enter num1:");
