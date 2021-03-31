@@ -11,12 +11,14 @@
 	int main()
 	{
 	    int n1;
-		printf("Input any number:");
-	    scanf("%d",&n1);
+		printf("Input:");
+	  scanf("%d",&n1);
 	    // If checkOddEven() function returns 1 then the number is odd 
 	    if(checkOdd(n1))
 	    {
+	        printf("the entered number is odd");
 	        //enter the printf statement
 	    }
+	    
 	    return 0;
 	}
