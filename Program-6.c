@@ -9,7 +9,6 @@
 	   int c;
      c=a+b; 
      return(c);
-     //Complete the missing code
 	}
 	int main()
 	{
