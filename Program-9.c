@@ -19,8 +19,6 @@
 	        printf("the entered number is odd");
 	        //enter the printf statement
 	    }
-	    else{
-	      printf("dont copy this");
-	    }
+	    
 	    return 0;
 	}
